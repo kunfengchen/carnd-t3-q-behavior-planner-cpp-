@@ -11,7 +11,7 @@ Instructions
 Implement the update_state method in the vehicle.cpp class.
 Hit Test Run and see how your car does! How fast can you get to the goal without colliding?
 
-## Output examples
+## Output Examples
 ```
 +Meters ======================+ step: 37
       |     |     |     |     |
